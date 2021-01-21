@@ -6,6 +6,7 @@ public static void main(String[] arg)
 	Subsctration s= new Subsctration();
 	System.out.println(s.minus(6, 2));
 	
+	System.out.println("Sum = "+new Addition().sum(5, 4));
 	Calculator c1 = new Calculator();
 	Calculator c2 = new Calculator();
 	
