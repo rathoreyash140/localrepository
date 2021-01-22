@@ -1,4 +1,4 @@
-
+package mainCode;
 public class Multiplication {
 public int mul (int a, int b)
 {
